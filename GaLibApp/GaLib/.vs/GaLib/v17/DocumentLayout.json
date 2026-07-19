@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|c:\\users\\komp\\source\\repos\\galib\\galibapp\\galib\\galib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|solutionrelative:galib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|c:\\users\\komp\\source\\repos\\galib\\galibapp\\galib\\galib\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|solutionrelative:galib\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|c:\\users\\komp\\source\\repos\\galib\\galibapp\\galib\\galib\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|solutionrelative:galib\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|c:\\users\\komp\\source\\repos\\galib\\galibapp\\galib\\galib\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D105-922B-4F68-A895-D594C9B9AF66}|GaLib\\GaLib.csproj|solutionrelative:galib\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +34,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.Designer.cs",
+              "RelativeDocumentMoniker": "GaLib\\frmHome.Designer.cs",
+              "ToolTip": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.Designer.cs",
+              "RelativeToolTip": "GaLib\\frmHome.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:29:55.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.cs",
+              "RelativeDocumentMoniker": "GaLib\\frmHome.cs",
+              "ToolTip": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.cs",
+              "RelativeToolTip": "GaLib\\frmHome.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:59:27.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\Form1.cs",
-              "RelativeDocumentMoniker": "GaLib\\Form1.cs",
-              "ToolTip": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\Form1.cs [Design]",
-              "RelativeToolTip": "GaLib\\Form1.cs [Design]",
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.cs",
+              "RelativeDocumentMoniker": "GaLib\\frmHome.cs",
+              "ToolTip": "C:\\Users\\Komp\\source\\repos\\GaLib\\GaLibApp\\GaLib\\GaLib\\frmHome.cs [Design]",
+              "RelativeToolTip": "GaLib\\frmHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T14:06:25.498Z",
               "EditorCaption": " [Design]"
